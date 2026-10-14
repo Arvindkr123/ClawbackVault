@@ -47,8 +47,3 @@ The system uses a hybrid detection strategy:
 | **Prompt Injection** | Pipeline Logic | Client text cannot change system rules. |
 
 ---
-
-## 🚀 Implementation Roadmap (6 Weeks)
-- **Phase 1 (Weeks 1-2):** Core Pipeline (Gate $\rightarrow$ Masking $\rightarrow$ Keyword Detection).
-- **Phase 2 (Weeks 3-4):** Statistical Engine (Silence/Drift) & API Integration.
-- **Phase 3 (Weeks 5-6):** Digest Generation & Security Audit.
